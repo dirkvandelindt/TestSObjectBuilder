@@ -6,3 +6,8 @@
 
 ## Overview
 This is an freestanding version of the [Nebula framework's](https://github.com/jongpie/NebulaFramework/) test SObject builder, used to generate test records for unit tests - it has been updated to remove any dependencies on the rest of the Nebula framework.
+
+## Implementation
+TestSObjectBuilder.cls is the primary focus of this project. 2 sample classes have also been included in the repo
+* TestAccountBuilder
+* TestcontactBuilder
