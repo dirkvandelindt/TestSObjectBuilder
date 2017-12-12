@@ -13,7 +13,7 @@ public class TestContactBuilder {
 
         public override Map<SObjectField, Object> getDefaultFieldsAndValues() {
             return new Map<SObjectField, Object>{
-                Schema.Contact.FirstName => 'Jonathan'
+                Schema.Contact.FirstName => 'Jonathan',
                 Schema.Contact.LastName  => 'Gillespie'
             };
         }
