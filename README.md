@@ -1,4 +1,4 @@
-# Apex Query Generator
+# Test SObject Builder for Salesforce Apex
 <a target="_blank" href="https://githubsfdeploy.herokuapp.com">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
